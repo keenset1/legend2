@@ -1,0 +1,70 @@
+.lol1{
+
+        background-color: rgb(255, 196, 0) !important;
+        width: 100%;
+        color: black !important;
+        border: 1px solid black;
+}
+.lolo{
+    border: 1px solid gray;
+    border-radius: 4px;
+    width:400px;
+    position: relative;
+    margin-top: 200px;
+    left: 40%;
+    padding: 15px;
+    line-height: 3;
+}
+a{
+    text-decoration: none !important;
+
+}
+.kami{
+    
+    padding-left: 150px;
+
+
+}
+.amazon{
+position: relative;
+left: -10px;
+    width: 395px;
+}
+.new{ 
+    position: absolute;
+    background-color: white;
+    z-index: 1 ;
+    left: 35%;
+margin-top: -5px;
+}
+.section2{
+    width:400px;
+    position: relative;
+    left: 40%;
+    padding: 15px;
+    line-height: 2.5;
+    text-align:center;
+}
+.line{
+    border: 0.25px solid black;
+    
+}
+.hrdiv{
+    padding-bottom: 8px;
+
+}
+.password, .kami{
+ line-height: 0.2 !important;
+
+}
+.hr2{
+    border: 1px solid black;
+}
+.policy, .class {
+
+    text-align: center;
+    
+}
+.policy-link{
+    padding-left: 15px;
+}
